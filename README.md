@@ -7,3 +7,4 @@ Edit one line.
 ## Changelog
 ### [1.0]
 - add an HttpUtil.
+- add a `.gitignore`.
