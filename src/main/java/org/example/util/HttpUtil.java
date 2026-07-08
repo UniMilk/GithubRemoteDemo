@@ -17,4 +17,8 @@ public class HttpUtil {
         }
         return "";
     }
+
+    public void post(String url, String body) {
+        
+    }
 }
