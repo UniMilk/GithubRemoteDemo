@@ -9,4 +9,8 @@ public class LoginController {
         // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'handleLogin'");
     }
+
+    private void jwtTest() {
+        
+    }
 }
